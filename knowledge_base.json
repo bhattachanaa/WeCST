@@ -1,0 +1,160 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hey there, how is your day going?"
+    },
+    {
+      "question": "it's good",
+      "answer": "I'm glad you're having a good day! What can I help you with today?"
+    },
+    {
+      "question": "great",
+      "answer": "I'm glad you're having a good day! What can I help you with today?"
+    },
+    {
+      "question": "amazing",
+      "answer": "I'm glad you're having a good day! What can I help you with today?"
+    },
+    {
+      "question": "sad",
+      "answer": "I'm so sorry to hear that. What can I help you with today?"
+    },
+    {
+      "question": "tiring",
+      "answer": "I'm so sorry to hear that. What can I help you with today?"
+    },
+    {
+      "question": "exhausting",
+      "answer": "I'm so sorry to hear that. What can I help you with today?"
+    },
+    {
+      "question": "awful",
+      "answer": "I'm so sorry to hear that. What can I help you with today?"
+    },
+    {
+      "question": "I wanted to try out cognitive stimulation therapy or CST",
+      "answer": "Sure, I would be happy to provide cognitive stimulation therapy for you. I'll ask you a couple of questions to tailor the experience to your needs. Do you wish to proceed?"
+    },
+    {
+      "question": "CST",
+      "answer": "Sure, I would be happy to provide cognitive stimulation therapy for you. I'll ask you a couple of questions to tailor the experience to your needs. Do you wish to proceed?"
+    },
+    {
+      "question": "therapy",
+      "answer": "Sure, I would be happy to provide cognitive stimulation therapy for you. I'll ask you a couple of questions to tailor the experience to your needs. Do you wish to proceed?"
+    },
+    {
+      "question": "im mentally sick",
+      "answer": "I'm so sorry to hear that. What can I help you with today?"
+    },
+    {
+      "question": "i feel like i need some therapy because i am forgetting things",
+      "answer": "Sure, I would be happy to provide cognitive stimulation therapy for you. I'll ask you a couple of questions to tailor the experience to your needs. Do you wish to proceed?"
+    },
+    {
+      "question": "i'm a little sad",
+      "answer": "I'm so sorry to hear that. What can I help you with today?"
+    },
+    {
+      "question": "yes",
+      "answer": "Great! I\u00e2\u20ac\u2122d love to hear about one of your favorite dishes. Could you describe the taste of one of your favorite dishes to me?"
+    },
+    {
+      "question": "no",
+      "answer": "No worries, can I help you with anything else today?"
+    },
+    {
+      "question": "cst",
+      "answer": "Sure, I would be happy to provide cognitive stimulation therapy for you. I'll ask you a couple of questions to tailor the experience to your needs. Do you wish to proceed?"
+    },
+    {
+      "question": "yes that would be nice",
+      "answer": "Great! I would love to hear about one of your favorite dishes. Could you describe the taste of one of your favorite dishes to me?"
+    },
+    {
+      "question": "hi there",
+      "answer": "hey there, how is your day going?"
+    },
+    {
+        "question": "delicious",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "tasty",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "flavorful",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "savory",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "scrumptious",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "mouthwatering",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "delectable",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "appetizing",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "nutritious",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "heavenly",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "rich",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "creamy",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "zesty",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "spicy",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "tangy",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "sweet",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "bitter",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "sour",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "juicy",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    },
+    {
+        "question": "tender",
+        "answer": "That sounds delicious! Who would you normally eat it with?"
+    }
+  ]
+}
